@@ -15,7 +15,7 @@ SQL Select Top
 SQL Min and Max
 SQL Count, Avg, Sum
 SQL Like
-SQL Wildcards
+
 SQL In
 SQL Between
 SQL Aliases
