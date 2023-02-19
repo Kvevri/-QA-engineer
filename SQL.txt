@@ -58,3 +58,9 @@ SQL Dates
 SQL Views
 SQL Injection
 SQL Hosting
+  
+ПРИМЕР:
+SELECT *
+FROM table-1
+JOIN table-2 ON table-1.parameter=table-2.parameter
+WHERE table-1.parameter IS ‘myData’
